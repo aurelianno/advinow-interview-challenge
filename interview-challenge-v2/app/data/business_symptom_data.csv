@@ -1,0 +1,13 @@
+Business ID,Business Name,Symptom Code,Symptom Name,Symptom Diagnostic
+1004,SportHealth,SYMPT0001,Patient Age,tRUE
+1004,SportHealth,SYMPT0004,Fever,true
+1104,MedStop,SYMPT0001,Patient Age,TRuE
+1104,MedStop,SYMPT0010,Fatigue,TRUE
+1004,SportHealth,SYMPT0005,Nausea,TRUE
+1004,SportHealth,SYMPT0012,Headache,TRUE
+1104,MedStop,SYMPT0012,Headache,TRUE
+1104,MedStop,SYMPT0111,MedStop Form,False
+1004,SportHealth,SYMPT1023,SportHealth Test,FAlSE
+1004,SportHealth,SYMPT0070,Rash,Yes
+1104,MedStop,SYMPT0070,Rash,TrUE
+1104,MedStop,SYMPT0310,MedStop Screen,No
